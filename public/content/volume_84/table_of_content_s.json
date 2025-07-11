@@ -1,0 +1,137 @@
+{
+    "volume": "84",
+    "title": "溪水旁第84期",
+    "character": "simplified",
+    "theme": "信心的操练",
+    "year": "2025",
+    "month": "6",
+    "table_of_content": [
+        {
+            "category": "刊首语",
+            "articles": [
+                {
+                    "title": "心灵祷告",
+                    "author": "亲爱的阿爸天父， ",
+                    "id": "1_prayer_s"
+                }
+            ]
+        }
+        ,
+        {
+            "category": "牧者分享",
+            "articles": [
+                {
+                    "title": "约伯的信心历程",
+                    "author": "郑律中牧师",
+                    "id": "2_pastor_s"
+                }
+            ]
+        }
+        ,
+        {
+            "category": "得救见证",
+            "articles": [
+                {
+                    "title": "归向神",
+                    "author": "刘汉唐",
+                    "id": "3_liuhantang_s"
+                }
+                ,
+                {
+                    "title": "穿越疑云，遇见他！",
+                    "author": "孟子昂",
+                    "id": "4_mengziang_s"
+                }
+                ,
+                {
+                    "title": "恩典之路，一家同行",
+                    "author": "（一）王存妮（奶奶）",
+                    "id": "5_family_s"
+                }
+                ,
+                {
+                    "title": "信主后的人生－并非一舧风顺，但总是有倚靠",
+                    "author": "——给正在信仰摇摆的人鼓励",
+                    "id": "6_alice_s"
+                }
+            ]
+        }
+        ,
+        {
+            "category": "生命历程",
+            "articles": [
+                {
+                    "title": "财务见证",
+                    "author": "施纪亘",
+                    "id": "7_alicefinance_s"
+                }
+            ]
+        }
+        ,
+        {
+            "category": "宣教日志",
+            "articles": [
+                {
+                    "title": "南亚实地短宣分享（三）",
+                    "author": "陈力",
+                    "id": "8_li_s"
+                }
+            ]
+        }
+        ,
+        {
+            "category": "灵修心得",
+            "articles": [
+                {
+                    "title": "受难节的祷告",
+                    "author": "黄海波",
+                    "id": "9_huanghaibo_s"
+                }
+            ]
+        }
+        ,
+        {
+            "category": "历史考据",
+            "articles": [
+                {
+                    "title": "“中国孤儿的母亲”——传教士艾伟德",
+                    "author": "方金琪",
+                    "id": "10_fangjinqi_s"
+                }
+            ]
+        }
+        ,
+        {
+            "category": "圣经知识趣味问答",
+            "articles": [
+                {
+                    "title": "1.神在天空放了什么记号来表明不会再用洪水灭世？彩虹",
+                    "author": "2.大卫用什么打败了巨人歌利亚？一块石头和甩石器",
+                    "id": "11_question_s"
+                }
+            ]
+        }
+        ,
+        {
+            "category": "约稿信 ",
+            "articles": [
+                {
+                    "title": "《溪水旁》在此热烈欢迎弟兄姐妹来稿，分享自己的生命历程。无论是初信决志、受洗感恩、蒙召经历、短宣旅程、经文思考、灵修心得、病中见证、神学辩证、历史考据、圣地游记、好书介绍、疑难问题，我们都可以帮您分享给大家。因为你我是同感一灵，一同见证主。",
+                    "author": "",
+                    "id": "12_invitation_s"
+                }
+            ]
+        }
+        ,
+        {
+            "category": "封面封底简介",
+            "articles": [
+                {
+                    "title": "董澄倩",
+                    "author": "苦难并非生命的终点，而是在耶稣基督的陪伴下，经历的一场螺旋上升的属灵旅程。",
+                    "id": "13_cover_s"
+                }
+            ]
+        }
+    ]
+}

@@ -3,7 +3,7 @@ var userRegistration = function() {
 	if (userText && JSON.parse(userText).id) {
 		return;
 	}
-	document.getElementById("registrationDialog").style.display = "block";
+	//document.getElementById("registrationDialog").style.display = "block";
 }
 
 var submitEmptyUser = function(callback) {
